@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 <p><a href="https://www.loom.com/share/ab7941c1ff27488287bd1d0b12040478" target="_blank">🎥 Watch the video walkthrough</a></p>
 
-GIF created with Loom
+Video created with Loom
 
 ## Notes
 
