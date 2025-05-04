@@ -25,9 +25,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<p><a href="https://www.loom.com/share/ab7941c1ff27488287bd1d0b12040478" target="_blank">🎥 Watch the video walkthrough</a></p>
+<img src='https://i.imgur.com/zKB85j9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Video created with Loom
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with 
+[LiceCap](https://www.cockos.com/licecap/) for Windows
 
 ## Notes
 
