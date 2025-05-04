@@ -31,7 +31,22 @@ Video created with Loom
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges Encountered While Building the App
+
+While building the Sea Monster Crowdfunding app, I encountered a few key challenges:
+
+### 1. DOM Manipulation with Dynamic Data  
+Managing the dynamic rendering of game cards based on filtered data (funded, unfunded, all) required careful use of functions like `filter()`, `forEach()`, and clearing previous content using `deleteChildElements`. Ensuring each update reflected accurately on the page without duplicating elements took some trial and error.
+
+### 2. Ternary Operators for Dynamic Text  
+Writing grammatically correct summary messages (e.g., "1 game remains" vs. "2 games remain") using the ternary operator required logical precision to ensure proper grammar and pluralization.
+
+### 3. Sorting and Destructuring Data  
+Sorting the games by funding amount and using destructuring to grab the top two funded games involved understanding how to work with arrays and maintain order after sorting.
+
+### 4. Implementing Bonus Features  
+Adding a real-time search bar and conditionally displaying a “Funded” badge introduced new layers of DOM manipulation. These features pushed me to think more deeply about how UI components respond to dynamic data.
+
 
 ## License
 
