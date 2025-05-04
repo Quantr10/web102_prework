@@ -31,8 +31,6 @@ Video created with Loom
 
 ## Notes
 
-Challenges Encountered While Building the App
-
 While building the Sea Monster Crowdfunding app, I encountered a few key challenges:
 
 ### 1. DOM Manipulation with Dynamic Data  
