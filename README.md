@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Added a search bar that lets users search for a game by name.
+* [ ] Displayed a "Funded" badge on games that have met or exceeded their funding goal.
+* [ ] Improved the CSS styling to make the site more visually appealing (e.g., hover effects, spacing, fonts, or card layout).
 
 ## Video Walkthrough
 
@@ -38,7 +40,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2025] [Quan Tran]
+    Copyright 2025 Quan Tran
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
